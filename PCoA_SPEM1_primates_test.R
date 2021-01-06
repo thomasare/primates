@@ -1,0 +1,21 @@
+#2021-01-06 PCoA Test on Primate Spem 1 Protein (Datafile = "complete_primate_spem1_protein.fas")
+getwd()
+setwd("/home/ariane/Documents/Anthlab/Sperm/primates/")
+getwd()
+library("bios2mds")
+#Had to run this: sudo apt-get install r-cran-rgl in order to get the package on Ubuntu
+file = import.fasta("complete_primate_spem1_protein.fas")
+test = mat.dif(file, file)
+library(vegan)
+library(ape)
+maybe = pcoa(test)
+biplot(maybe)
+maybe$values
+names = c("Galeopterus", "Papio", "Pan", "Otolemur", "Cebus", "Pan", "Colobus", "Macaca", "Theropithecus", "Nomascus", "Rhinopithecus", "Gorilla", "Homo", "Macaca", "Macaca", "Mandrillus", "Cercocebus", "Callithrix", "Microcebus", "Aotus", "Pongo", "Piliocolobus", "Propithecus", "Rhinopithecus", "Saimiri", "Carlito", "Chlorocebus")
+biplot(maybe, rn = names)
+OWMfile = import.fasta("OWMs_spem1_protein.fas")
+OWMtest = mat.dif(OWMfile, OWMfile)
+OWMpcoa = pcoa(OWMtest)
+names2 = c("Papio", "Pan", "Pan", "Colobus", "Macaca", "Theropithecus", "Nomascus", "Rhinopithecus", "Gorilla", "Homo", "Macaca", "Macaca", "Mandrillus", "Cercocebus", "Pongo", "Piliocolobus", "Rhinopithecus", "Chlorocebus")
+biplot(OWMpcoa, rn=names2)
+
