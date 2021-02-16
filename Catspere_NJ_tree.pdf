@@ -1,0 +1,822 @@
+%PDF-1.3
+%äüöß
+1 0 obj
+<<
+/Type /Catalog
+/PageLayout /SinglePage
+/OpenAction [5 0 R /XYZ null null 1]
+/ViewerPreferences 3 0 R
+/Pages 4 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Title (MEGAX)
+/Author (Institute for Genomics and Evolutionary Medicine)
+/Creator (MEGAX)
+/Producer (MEGA)
+/CreationDate (D:20210216123205-06'00')
+>>
+endobj
+
+3 0 obj
+<<
+/Type /ViewerPreferences
+/FitWindow true
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Pages
+/Kids [5 0 R]
+/Count 1
+>>
+endobj
+
+5 0 obj
+<<
+/Type /Page
+/Parent 4 0 R
+/MediaBox [0 0 1120 1104]
+/Resources <<
+/ProcSet [/PDF /Text /ImageC]
+/Font <<
+/F0 7 0 R
+>>
+>>
+/Contents 6 0 R
+>>
+endobj
+
+6 0 obj
+<<
+/Length 7702
+>>
+stream
+/F0 11 Tf
+0 0 0 rg
+BT
+340 1061 TD
+( ENSMFAG00000033487:ENSMFAT00000034827.2 Macaca fascicularis crabeatingmacaque) Tj
+ET
+[] 0 d
+0 0 0 RG
+333 1044 m
+[] 0 d
+2 J
+1 w
+333 1044 m
+333 1064 l
+S
+[] 0 d
+333 1064 m
+338 1064 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+340 1020 TD
+( ENSMMUG00000000021:ENSMMUT00000044492.3 Macaca mulatta macaque) Tj
+ET
+[] 0 d
+0 0 0 RG
+333 1043 m
+[] 0 d
+333 1043 m
+333 1023 l
+S
+[] 0 d
+333 1023 m
+338 1023 l
+S
+[] 0 d
+330 1013 m
+[] 0 d
+330 1013 m
+330 1044 l
+S
+[] 0 d
+330 1044 m
+333 1044 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+346 979 TD
+( ENSMNEG00000026147:ENSMNET00000028800.1 Macaca nemestrina pigtailedmacaque) Tj
+ET
+[] 0 d
+0 0 0 RG
+330 1012 m
+[] 0 d
+330 1012 m
+330 982 l
+S
+[] 0 d
+330 982 m
+344 982 l
+S
+[] 0 d
+322 962 m
+[] 0 d
+322 962 m
+322 1013 l
+S
+[] 0 d
+322 1013 m
+330 1013 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+335 938 TD
+( ENSPANG00000029860:ENSPANT00000042348.1 Papio anubis olivebaboon) Tj
+ET
+[] 0 d
+0 0 0 RG
+324 911 m
+[] 0 d
+324 911 m
+324 941 l
+S
+[] 0 d
+324 941 m
+333 941 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+337 897 TD
+( ENSMLEG00000035016:ENSMLET00000045145.1 Mandrillus leucophaeus drill) Tj
+ET
+[] 0 d
+0 0 0 RG
+332 880 m
+[] 0 d
+332 880 m
+332 900 l
+S
+[] 0 d
+332 900 m
+335 900 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+340 856 TD
+( ENSCATG00000040129:ENSCATT00000058704.1 Cercocebus atys sootymangabey) Tj
+ET
+[] 0 d
+0 0 0 RG
+332 879 m
+[] 0 d
+332 879 m
+332 859 l
+S
+[] 0 d
+332 859 m
+338 859 l
+S
+[] 0 d
+324 910 m
+[] 0 d
+324 910 m
+324 880 l
+S
+[] 0 d
+324 880 m
+332 880 l
+S
+[] 0 d
+322 961 m
+[] 0 d
+322 961 m
+322 911 l
+S
+[] 0 d
+322 911 m
+324 911 l
+S
+[] 0 d
+319 890 m
+[] 0 d
+319 890 m
+319 962 l
+S
+[] 0 d
+319 962 m
+322 962 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+348 815 TD
+( ENSCSAG00000009285:ENSCSAT00000007318.1 Chlorocebus sabaeus vervet) Tj
+ET
+[] 0 d
+0 0 0 RG
+319 889 m
+[] 0 d
+319 889 m
+319 818 l
+S
+[] 0 d
+319 818 m
+346 818 l
+S
+[] 0 d
+305 824 m
+[] 0 d
+305 824 m
+305 890 l
+S
+[] 0 d
+305 890 m
+319 890 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+336 774 TD
+( ENSRBIG00000041705:ENSRBIT00000060169.1 Rhinopithecus bieti blacksnubnosemonkey) Tj
+ET
+[] 0 d
+0 0 0 RG
+322 757 m
+[] 0 d
+322 757 m
+322 777 l
+S
+[] 0 d
+322 777 m
+334 777 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+326 733 TD
+( ENSRROG00000028619:ENSRROT00000032372.1 Rhinopithecus roxellana goldsnubnosemonkey) Tj
+ET
+[] 0 d
+0 0 0 RG
+322 756 m
+[] 0 d
+322 756 m
+322 736 l
+S
+[] 0 d
+322 736 m
+324 736 l
+S
+[] 0 d
+305 823 m
+[] 0 d
+305 823 m
+305 757 l
+S
+[] 0 d
+305 757 m
+322 757 l
+S
+[] 0 d
+262 740 m
+[] 0 d
+262 740 m
+262 824 l
+S
+[] 0 d
+262 824 m
+305 824 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+363 692 TD
+( ENSNLEG00000004005:ENSNLET00000005100.2 Nomascus leucogenys gibbon) Tj
+ET
+[] 0 d
+0 0 0 RG
+308 656 m
+[] 0 d
+308 656 m
+308 695 l
+S
+[] 0 d
+308 695 m
+361 695 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+357 651 TD
+( ENSPPYG00000000056:ENSPPYT00000000060.1 Pongo abelii orangutan) Tj
+ET
+[] 0 d
+0 0 0 RG
+317 616 m
+[] 0 d
+317 616 m
+317 654 l
+S
+[] 0 d
+317 654 m
+355 654 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+355 610 TD
+( ENSGGOG00000005744:ENSGGOT00000005780.3 Gorilla gorilla WestLowGorilla) Tj
+ET
+[] 0 d
+0 0 0 RG
+338 578 m
+[] 0 d
+338 578 m
+338 613 l
+S
+[] 0 d
+338 613 m
+353 613 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+353 569 TD
+( ENSG00000179397:ENST00000366531.7 Homo sapiens humans) Tj
+ET
+[] 0 d
+0 0 0 RG
+343 542 m
+[] 0 d
+343 542 m
+343 572 l
+S
+[] 0 d
+343 572 m
+351 572 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+353 528 TD
+( ENSPPAG00000039497:ENSPPAT00000056135.1 Pan paniscus bonobo) Tj
+ET
+[] 0 d
+0 0 0 RG
+350 511 m
+[] 0 d
+350 511 m
+350 531 l
+S
+[] 0 d
+350 531 m
+351 531 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+356 487 TD
+( ENSPTRG00000002179:ENSPTRT00000003992.6 Pan troglodytes chimps) Tj
+ET
+[] 0 d
+0 0 0 RG
+350 510 m
+[] 0 d
+350 510 m
+350 490 l
+S
+[] 0 d
+350 490 m
+354 490 l
+S
+[] 0 d
+343 541 m
+[] 0 d
+343 541 m
+343 511 l
+S
+[] 0 d
+343 511 m
+350 511 l
+S
+[] 0 d
+338 577 m
+[] 0 d
+338 577 m
+338 542 l
+S
+[] 0 d
+338 542 m
+343 542 l
+S
+[] 0 d
+317 615 m
+[] 0 d
+317 615 m
+317 578 l
+S
+[] 0 d
+317 578 m
+338 578 l
+S
+[] 0 d
+308 655 m
+[] 0 d
+308 655 m
+308 616 l
+S
+[] 0 d
+308 616 m
+317 616 l
+S
+[] 0 d
+262 739 m
+[] 0 d
+262 739 m
+262 656 l
+S
+[] 0 d
+262 656 m
+308 656 l
+S
+[] 0 d
+229 564 m
+[] 0 d
+229 564 m
+229 740 l
+S
+[] 0 d
+229 740 m
+262 740 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+441 446 TD
+( ENSSBOG00000034772:ENSSBOT00000054280.1 Saimiri boliviensis Boliviansquirrelmonkey) Tj
+ET
+[] 0 d
+0 0 0 RG
+355 429 m
+[] 0 d
+355 429 m
+355 449 l
+S
+[] 0 d
+355 449 m
+439 449 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+412 405 TD
+( ENSCCAG00000024353:ENSCCAT00000030539.1 Cebus imitator capuchin) Tj
+ET
+[] 0 d
+0 0 0 RG
+355 428 m
+[] 0 d
+355 428 m
+355 408 l
+S
+[] 0 d
+355 408 m
+410 408 l
+S
+[] 0 d
+333 388 m
+[] 0 d
+333 388 m
+333 429 l
+S
+[] 0 d
+333 429 m
+355 429 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+383 364 TD
+( ENSANAG00000038006:ENSANAT00000059543.1 Aotus nancymaae Manightmonkey) Tj
+ET
+[] 0 d
+0 0 0 RG
+339 347 m
+[] 0 d
+339 347 m
+339 367 l
+S
+[] 0 d
+339 367 m
+381 367 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+422 323 TD
+( ENSCJAG00000017054:ENSCJAT00000033147.3 Callithrix jacchus marmoset) Tj
+ET
+[] 0 d
+0 0 0 RG
+339 346 m
+[] 0 d
+339 346 m
+339 326 l
+S
+[] 0 d
+339 326 m
+420 326 l
+S
+[] 0 d
+333 387 m
+[] 0 d
+333 387 m
+333 347 l
+S
+[] 0 d
+333 347 m
+339 347 l
+S
+[] 0 d
+229 563 m
+[] 0 d
+229 563 m
+229 388 l
+S
+[] 0 d
+229 388 m
+333 388 l
+S
+[] 0 d
+121 425 m
+[] 0 d
+121 425 m
+121 564 l
+S
+[] 0 d
+121 564 m
+229 564 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+341 282 TD
+( ENSTSYG00000002276:ENSTSYT00000026625.1 Tarsius syrichta tarsier) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 424 m
+[] 0 d
+121 424 m
+121 285 l
+S
+[] 0 d
+121 285 m
+339 285 l
+S
+[] 0 d
+40 320 m
+[] 0 d
+40 320 m
+40 425 l
+S
+[] 0 d
+40 425 m
+121 425 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+442 241 TD
+( ENSOGAG00000006168:ENSOGAT00000006173.2 Otolemur garnettii galago) Tj
+ET
+[] 0 d
+0 0 0 RG
+92 214 m
+[] 0 d
+92 214 m
+92 244 l
+S
+[] 0 d
+92 244 m
+440 244 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+248 200 TD
+( ENSPCOG00000011368:ENSPCOT00000012926.1 Propithecus-coquereli sifaka) Tj
+ET
+[] 0 d
+0 0 0 RG
+193 183 m
+[] 0 d
+193 183 m
+193 203 l
+S
+[] 0 d
+193 203 m
+246 203 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+346 159 TD
+( ENSMICG00000007626:ENSMICT00000047163.2 Microcebus murinus mouselemur) Tj
+ET
+[] 0 d
+0 0 0 RG
+193 182 m
+[] 0 d
+193 182 m
+193 162 l
+S
+[] 0 d
+193 162 m
+344 162 l
+S
+[] 0 d
+92 213 m
+[] 0 d
+92 213 m
+92 183 l
+S
+[] 0 d
+92 183 m
+193 183 l
+S
+[] 0 d
+40 319 m
+[] 0 d
+40 319 m
+40 214 l
+S
+[] 0 d
+40 214 m
+92 214 l
+S
+/F0 8 Tf
+0.96 0.96 0.96 rg
+BT
+166 163 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+94 438 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+335 442 TD
+(99) Tj
+ET
+/F0 8 Tf
+BT
+319 327 TD
+(71) Tj
+ET
+/F0 8 Tf
+BT
+306 368 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+330 491 TD
+(99) Tj
+ET
+/F0 8 Tf
+BT
+323 522 TD
+(88) Tj
+ET
+/F0 8 Tf
+BT
+311 558 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+297 596 TD
+(98) Tj
+ET
+/F0 8 Tf
+BT
+281 636 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+202 577 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+242 753 TD
+(99) Tj
+ET
+/F0 8 Tf
+BT
+295 737 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+278 837 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+312 860 TD
+(99) Tj
+ET
+/F0 8 Tf
+BT
+315 1057 TD
+(99) Tj
+ET
+/F0 8 Tf
+BT
+310 1026 TD
+(98) Tj
+ET
+/F0 8 Tf
+BT
+292 903 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+307 891 TD
+(37) Tj
+ET
+/F0 8 Tf
+BT
+304 975 TD
+(58) Tj
+ET
+[] 0 d
+0 0 0 RG
+60 104 m
+[] 0 d
+60 104 m
+177 104 l
+S
+[] 0 d
+60 108 m
+[] 0 d
+60 108 m
+60 100 l
+S
+[] 0 d
+177 108 m
+[] 0 d
+177 108 m
+177 100 l
+S
+/F0 8 Tf
+0.96 0.96 0.96 rg
+BT
+103 76 TD
+(0.050) Tj
+ET
+
+endstream
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+/BaseFont /Helvetica
+/Name /F0
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000021 00000 n
+0000000167 00000 n
+0000000347 00000 n
+0000000417 00000 n
+0000000483 00000 n
+0000000657 00000 n
+0000008421 00000 n
+trailer
+<<
+/Size 8
+/Root 1 0 R
+/Info 2 0 R
+/ID [<a953a38c8691b8cd835ee7dbd924c9ec> <a953a38c8691b8cd835ee7dbd924c9ec>]
+>>
+startxref
+8569
+%%EOF
